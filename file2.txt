@@ -13,4 +13,3 @@ zz
 100
 novy branch
 prj2
-novy riadok.
