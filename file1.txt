@@ -20,3 +20,4 @@ prvy
 80
 90
 100
+remotelly
